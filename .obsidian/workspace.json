@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "5a7f937b9f1d1da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bec0bb4e60a5bda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6ad5eb8cac288c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliotecas UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0a36cfb05a32645",
+    "type": "split",
+    "children": [
+      {
+        "id": "249b2498fdb1615e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c802b772974b16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da01344fd5c2e62c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0174cc672c2ee1bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4acfeb29fec812ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc289447e757f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ebaf2616f9301d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bibliotecas UI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bcc3bc7352c1ee6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bibliotecas UI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e79aa6f97108077",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37708ac71a8306f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bibliotecas UI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5c6ad5eb8cac288c",
+  "lastOpenFiles": [
+    "ip.md",
+    "Table.md",
+    "React.md",
+    "Typescript.md",
+    "clone-tabnews.md",
+    "Git.md",
+    "GitHub.md",
+    "Protocolos http.md",
+    "DNS.md",
+    "columns.tsx.md",
+    "page.tsx.md",
+    "editorconfig.md",
+    "assets/versionamento-de-api.png",
+    "data-table.tsx.md",
+    "Data table.md",
+    "tanstack.md",
+    "shadcn.md",
+    "Bibliotecas UI.md",
+    "shadcn/ui.md",
+    "table.md",
+    "shadcn"
+  ]
+}

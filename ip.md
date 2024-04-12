@@ -1,0 +1,1 @@
+Endereço único de um computador
